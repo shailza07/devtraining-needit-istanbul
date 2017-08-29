@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="needit staging" max_length="40" name="x_58872_needit_needit_staging" type="collection">
+        <element attributes="import_attribute_name=Comments,edge_encryption_enabled=true" label="Comments" max_length="244" name="u_comments" type="string"/>
+        <element attributes="import_attribute_name=Questions,edge_encryption_enabled=true" label="Questions" max_length="122" name="u_questions" type="string"/>
+        <element attributes="import_attribute_name=Story,edge_encryption_enabled=true" label="Story " max_length="40" name="u_story" type="string"/>
+    </element>
+</database>
